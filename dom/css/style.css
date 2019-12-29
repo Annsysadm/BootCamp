@@ -1,0 +1,9 @@
+.box {
+  background-color: rgb(128, 42, 42);
+  width: 200px;
+  height: 200px;
+}
+
+button {
+	width: 150px;
+}
